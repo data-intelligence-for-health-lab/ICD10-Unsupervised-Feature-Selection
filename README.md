@@ -75,7 +75,7 @@ decreased the complexity of features.
 5. Run these bash scripts:
 
 
-    # You can run the following commands on a regular computer (preferably with GPU)
+    \# You can run the following commands on a regular computer (preferably with GPU)
     python process_icd_codes.py
     python one_hot_encode_icd_table.py
     python post_process_one_hot_table.py
@@ -86,12 +86,12 @@ decreased the complexity of features.
     python icd_selection_pfa.py
 
 
-    # Run the following commands on a high-memory-high-CPU cluster (make sure to put the selected features in the "selected_features" folder)
+    \# Run the following commands on a high-memory-high-CPU cluster (make sure to put the selected features in the "selected_features" folder)
     python skfeature_job/skf_job.py
     python skfeature_job/mcfs.py
 
 
-    # You can run the following commands on a regular computer (Evaluation of the selected features)
+    \# You can run the following commands on a regular computer (Evaluation of the selected features)
     python reconstruction_test.py
     python mortality_prediction_test.py
     python generate_tables_for_selected_features.py
