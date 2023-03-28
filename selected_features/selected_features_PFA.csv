@@ -1,0 +1,101 @@
+code,chapter,rank,description
+80903,NEOPLASM,1,Basal cell carcinoma NOS
+98233,NEOPLASM,1,Chronic lymphocytic leukaemia
+A65-A69,I,1,Other spirochaetal diseases
+C08,II,4,Malignant neoplasm of other and unspecified major salivary glands
+C496,II,5,"Malignant neoplasm: Connective and soft tissue of trunk, unspecified"
+C839,II,4,"Non-follicular (diffuse) lymphoma, unspecified"
+D039,II,3,"Melanoma in situ, unspecified"
+D304,II,3,Benign neoplasm: Urethra
+D373,II,3,Neoplasm of uncertain or unknown behaviour: Appendix
+D461,II,3,Refractory anaemia with ring sideroblasts
+D823,III,3,Immunodeficiency following hereditary defective response to Epstein-Barr virus
+E038,IV,3,Other specified hypothyroidism
+E055,IV,3,Thyroid crisis or storm
+E11684,IV,4,"Type 2 diabetes mellitus with other specified complication, inadequately controlled with insulin"
+E20,IV,2,Hypoparathyroidism
+E32,IV,2,Diseases of thymus
+E539,IV,3,"Vitamin B deficiency, unspecified"
+E8310,IV,4,Haemochromatosis
+F115,V,3,Mental and behavioural disorders due to use of opioids : psychotic disorder
+F439,V,3,"Reaction to severe stress, unspecified"
+F453,V,3,Somatoform autonomic dysfunction
+G08,VI,2,Intracranial and intraspinal phlebitis and thrombophlebitis
+G232,VI,3,"Multiple system atrophy, parkinsonian type [MSA-P]"
+G308,VI,3,Other Alzheimer disease
+G4000,VI,4,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not stated as intractable"
+G62,VI,2,Other polyneuropathies
+G821,VI,3,Spastic paraplegia
+H110,VII,3,Pterygium
+H430,VII,3,Vitreous prolapse
+H498,VII,3,Other paralytic strabismus
+I441,IX,3,"Atrioventricular block, second degree"
+I454,IX,3,Nonspecific intraventricular block
+I479,IX,3,"Paroxysmal tachycardia, unspecified"
+I82,IX,2,Other venous embolism and thrombosis
+I972,IX,3,Postmastectomy lymphoedema syndrome
+J014,X,3,Acute pansinusitis
+J2080,X,4,Acute bronchitis due to human metapneumovirus
+J303,X,3,Other allergic rhinitis
+J701,X,3,Chronic and other pulmonary manifestations due to radiation
+K088,XI,3,Other specified disorders of teeth and supporting structures
+K271,XI,3,"Peptic ulcer, site unspecified : acute with perforation"
+K605,XI,3,Anorectal fistula
+K871,XI,3,Disorders of pancreas in diseases classified elsewhere
+K910,XI,3,Vomiting following gastrointestinal surgery
+L43,XII,2,Lichen planus
+L81,XII,2,Other disorders of pigmentation
+M053,XIII,4,Rheumatoid arthritis with involvement of other organs and systems
+M058,XIII,4,Other seropositive rheumatoid arthritis
+M1095,XIII,5,"Gout, unspecified, pelvic region and thigh"
+M2544,XIII,5,"Effusion of joint, hand"
+M472,XIII,4,Other spondylosis with radiculopathy
+M4780,XIII,5,"Other spondylosis, multiple sites in spine"
+M6527,XIII,5,"Calcific tendinitis, ankle and foot"
+M7135,XIII,5,"Other bursal cyst, pelvic region and thigh"
+M864,XIII,4,Chronic osteomyelitis with draining sinus
+M8725,XIII,5,"Osteonecrosis due to previous trauma, pelvic region and thigh"
+M8983,XIII,5,"Other specified disorders of bone, forearm"
+N151,XIV,3,Renal and perinephric abscess
+N42,XIV,2,Other disorders of prostate
+N423,XIV,3,Dysplasia of prostate
+N4408,XIV,3,Other torsion of testis
+N498,XIV,3,Inflammatory disorders of other specified male genital organs
+N859,XIV,3,"Noninflammatory disorder of uterus, unspecified"
+N922,XIV,3,Excessive menstruation at puberty
+N958,XIV,3,Other specified menopausal and perimenopausal disorders
+Q518,XVII,3,Other congenital malformations of uterus and cervix
+Q611,XVII,3,"Polycystic kidney, autosomal recessive"
+Q893,XVII,3,Situs inversus
+R064,XVIII,3,Hyperventilation
+R30,XVIII,2,Pain associated with micturition
+R430,XVIII,3,Anosmia
+R798,XVIII,3,Other specified abnormal findings of blood chemistry
+R936,XVIII,3,Abnormal findings on diagnostic imaging of limbs
+S136,XIX,3,Sprain and strain of joints and ligaments of other and unspecified parts of neck
+S22900,XIX,4,"Fracture of bony thorax, part unspecified, closed"
+S32700,XIX,4,"Multiple fractures of lumbar spine and pelvis, closed"
+S37391,XIX,4,"Injury NOS of urethra, with open wound into cavity"
+S429,XIX,3,"Fracture of shoulder girdle, part unspecified"
+S759,XIX,3,Injury of unspecified blood vessel at hip and thigh level
+S7678,XIX,4,Other and unspecified injury of multiple muscles and tendons at hip and thigh level
+T0210,XIX,4,"Fractures involving thorax with lower back and pelvis, closed"
+T08,XIX,2,"Fracture of spine, level unspecified"
+T8405,XIX,4,Mechanical complication of ankle and tarsal prosthesis
+U831,XXII,3,Resistance to other vancomycin related antibiotics
+U88,U88,0,Agent resistant to multiple antibiotics
+V183,XX,5,Pedal cyclist injured in noncollision transport accident : person injured while boarding or alighting
+V19,XX,4,Pedal cyclist injured in other and unspecified transport accidents
+V40,XX,4,Car occupant injured in collision with pedestrian or animal
+Y414,XX,4,Anthelminthics
+Y436,XX,4,"Enzymes, not elsewhere classified"
+Y475,XX,4,"Mixed sedatives and hypnotics, not elsewhere classified"
+Y518,XX,4,"Centrally acting and adrenergic-neuron-blocking agents, not elsewhere classified"
+Y599,XX,4,"Vaccine or biological substance, unspecified"
+Z01,XXI,2,Other special examinations and investigations of persons without complaint or reported diagnosis
+Z224,XXI,3,Carrier of infections with a predominantly sexual mode of transmission
+Z48,XXI,2,Other surgical follow-up care
+Z712,XXI,3,Person consulting for explanation of investigation findings
+Z722,XXI,3,Drug use
+Z8600,XXI,4,Personal history of in-situ neoplasms
+Z889,XXI,3,"Personal history of allergy to unspecified drugs, medicaments and biological substances"

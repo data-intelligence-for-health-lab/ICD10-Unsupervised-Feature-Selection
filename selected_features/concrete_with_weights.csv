@@ -1,0 +1,77 @@
+code,chapter,rank,description
+A30-A49,I,1,Other bacterial diseases
+B95-B98,I,1,"Bacterial, viral and other infectious agents"
+III,III,0,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D649,III,3,"Anaemia, unspecified"
+IV,IV,0,"Endocrine, nutritional and metabolic diseases"
+E10,IV,2,Type 1 diabetes mellitus
+E112,IV,3,Type 2 diabetes mellitus with renal complications
+E116,IV,3,Type 2 diabetes mellitus with other specified complications
+E1164,IV,4,"Type 2 diabetes mellitus with poor control, so described"
+E14,IV,2,Unspecified diabetes mellitus
+E65-E68,IV,1,Obesity and other hyperalimentation
+E780,IV,3,Pure hypercholesterolaemia
+E789,IV,3,"Disorder of lipoprotein metabolism, unspecified"
+E83,IV,2,Disorders of mineral metabolism
+E87,IV,2,"Other disorders of fluid, electrolyte and acid-base balance"
+F00-F09,V,1,"Organic, including symptomatic, mental disorders"
+V,V,0,Mental and behavioural disorders
+F05,V,2,"Delirium, not induced by alcohol and other psychoactive substances"
+F32,V,2,Depressive episode
+IX,IX,0,Diseases of the circulatory system
+I23,IX,2,Certain current complications following acute myocardial infarction
+I2510,IX,4,Atherosclerotic heart disease of native coronary artery
+I2519,IX,4,"Atherosclerotic heart disease of unspecified type of vessel, native or graft"
+I252,IX,3,Old myocardial infarction
+I30-I52,IX,1,Other forms of heart disease
+I42,IX,2,Cardiomyopathy
+I500,IX,3,Congestive heart failure
+I60-I69,IX,1,Cerebrovascular diseases
+J18,X,2,"Pneumonia, organism unspecified"
+J40-J47,X,1,Chronic lower respiratory diseases
+J440,X,3,Chronic obstructive pulmonary disease with acute lower respiratory infection
+J80-J84,X,1,Other respiratory diseases principally affecting the interstitium
+J98,X,2,Other respiratory disorders
+K56,XI,2,Paralytic ileus and intestinal obstruction without hernia
+K746,XI,3,Other and unspecified cirrhosis of liver
+K80-K87,XI,1,"Disorders of gallbladder, biliary tract and pancreas"
+K85,XI,2,Acute pancreatitis
+M30-M36,XIII,1,Systemic connective tissue disorders
+M40-M54,XIII,1,Dorsopathies
+M50-M54,XIII,2,Other dorsopathies
+M60-M79,XIII,1,Soft tissue disorders
+M80-M94,XIII,1,Osteopathies and chondropathies
+N00-N08,XIV,1,Glomerular diseases
+N0835,XIV,4,"Glomerular disorders in diabetes mellitus, chronic kidney disease, stage 5"
+N10-N16,XIV,1,Renal tubulo-interstitial diseases
+N17-N19,XIV,1,Renal failure
+N185,XIV,3,"Chronic kidney disease, stage 5"
+N20-N23,XIV,1,Urolithiasis
+R00-R09,XVIII,1,Symptoms and signs involving the circulatory and respiratory systems
+XVIII,XVIII,0,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R10,XVIII,2,Abdominal and pelvic pain
+R50-R69,XVIII,1,General symptoms and signs
+R70-R79,XVIII,1,"Abnormal findings on examination of blood, without diagnosis"
+R90-R94,XVIII,1,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+S60-S69,XIX,1,Injuries to the wrist and hand
+T80-T88,XIX,1,"Complications of surgical and medical care, not elsewhere classified"
+V01-V99,XX,2,Transport accidents
+V01-X59,XX,1,Accidents
+XX,XX,0,External causes of morbidity and mortality
+W00-W19,XX,3,Falls
+Y44,XX,3,Agents primarily affecting blood constituents
+Y60-Y69,XX,2,Misadventures to patients during surgical and medical care
+Z40-Z54,XXI,1,Persons encountering health services for specific procedures and health care
+Z501,XXI,3,Other physical therapy
+Z508,XXI,3,Care involving use of other rehabilitation procedures
+Z51,XXI,2,Other medical care
+Z54,XXI,2,Convalescence
+Z55-Z65,XXI,1,Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+Z720,XXI,3,Tobacco use
+Z80-Z99,XXI,1,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z85,XXI,2,Personal history of malignant neoplasm
+Z8678,XXI,4,Personal history of other diseases of the circulatory system
+Z94,XXI,2,Transplanted organ and tissue status
+Z950,XXI,3,Presence of electronic cardiac devices
+Z951,XXI,3,Presence of aortocoronary bypass graft
+Z96,XXI,2,Presence of other functional implants

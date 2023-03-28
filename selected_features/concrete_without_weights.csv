@@ -1,0 +1,86 @@
+code,chapter,rank,description
+A41,I,2,Other sepsis
+B95-B98,I,1,"Bacterial, viral and other infectious agents"
+C00-C75,II,2,"Malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic and related tissue"
+II,II,0,Neoplasms
+C30-C39,II,3,Malignant neoplasms of respiratory and intrathoracic organs
+C76-C80,II,2,"Malignant neoplasms of ill-defined, secondary and unspecified sites"
+III,III,0,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+D60-D64,III,1,Aplastic and other anaemias
+IV,IV,0,"Endocrine, nutritional and metabolic diseases"
+E10-E14,IV,1,Diabetes mellitus
+E11,IV,2,Type 2 diabetes mellitus
+E112,IV,3,Type 2 diabetes mellitus with renal complications
+E115,IV,3,Type 2 diabetes mellitus with peripheral circulatory complications
+E1152,IV,4,Type 2 diabetes mellitus with certain circulatory complications
+E65-E68,IV,1,Obesity and other hyperalimentation
+E669,IV,3,"Obesity, unspecified"
+E70-E90,IV,1,Metabolic disorders
+E78,IV,2,Disorders of lipoprotein metabolism and other lipidaemias
+E785,IV,3,"Hyperlipidaemia, unspecified"
+E876,IV,3,Hypokalaemia
+E877,IV,3,Fluid overload
+F03,V,2,Unspecified dementia
+F05,V,2,"Delirium, not induced by alcohol and other psychoactive substances"
+F30-F39,V,1,Mood [affective] disorders
+G40-G47,VI,1,Episodic and paroxysmal disorders
+G50-G59,VI,1,"Nerve, nerve root and plexus disorders"
+IX,IX,0,Diseases of the circulatory system
+I10,IX,2,Essential (primary) hypertension
+I20-I25,IX,1,Ischaemic heart diseases
+I214,IX,3,Acute subendocardial myocardial infarction
+I251,IX,3,Atherosclerotic heart disease
+I2519,IX,4,"Atherosclerotic heart disease of unspecified type of vessel, native or graft"
+I252,IX,3,Old myocardial infarction
+I30-I52,IX,1,Other forms of heart disease
+I442,IX,3,"Atrioventricular block, complete"
+I48,IX,2,Atrial fibrillation and flutter
+I4890,IX,4,"Atrial fibrillation, unspecified"
+I50,IX,2,Heart failure
+I60-I69,IX,1,Cerebrovascular diseases
+X,X,0,Diseases of the respiratory system
+J09-J18,X,1,Influenza and pneumonia
+J189,X,3,"Pneumonia, unspecified"
+J44,X,2,Other chronic obstructive pulmonary disease
+J459,X,3,"Asthma, unspecified"
+J95-J99,X,1,Other diseases of the respiratory system
+XI,XI,0,Diseases of the digestive system
+K21,XI,2,Gastro-oesophageal reflux disease
+K55-K64,XI,1,Other diseases of intestines
+K65-K67,XI,1,Diseases of peritoneum
+K800,XI,3,Calculus of gallbladder with acute cholecystitis
+XII,XII,0,Diseases of the skin and subcutaneous tissue
+M00-M25,XIII,1,Arthropathies
+XIII,XIII,0,Diseases of the musculoskeletal system and connective tissue
+M25,XIII,3,"Other joint disorders, not elsewhere classified"
+XIV,XIV,0,Diseases of the genitourinary system
+N17,XIV,2,Acute renal failure
+N179,XIV,3,"Acute renal failure, unspecified"
+N18,XIV,2,Chronic kidney disease
+N39,XIV,2,Other disorders of urinary system
+N80-N98,XIV,1,Noninflammatory disorders of female genital tract
+XVIII,XVIII,0,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R06,XVIII,2,Abnormalities of breathing
+R10-R19,XVIII,1,Symptoms and signs involving the digestive system and abdomen
+R25-R29,XVIII,1,Symptoms and signs involving the nervous and musculoskeletal systems
+R47-R49,XVIII,1,Symptoms and signs involving speech and voice
+R90-R94,XVIII,1,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+R94,XVIII,2,Abnormal results of function studies
+R943,XVIII,3,Abnormal results of cardiovascular function studies
+XIX,XIX,0,"Injury, poisoning and certain other consequences of external causes"
+S20-S29,XIX,1,Injuries to the thorax
+V01-X59,XX,1,Accidents
+XX,XX,0,External causes of morbidity and mortality
+W00-W19,XX,3,Falls
+Y40-Y84,XX,1,Complications of medical and surgical care
+Y83,XX,3,"Surgical operation and other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+Z22,XXI,2,Carrier of infectious disease
+Z40-Z54,XXI,1,Persons encountering health services for specific procedures and health care
+Z720,XXI,3,Tobacco use
+Z80-Z99,XXI,1,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z82,XXI,2,Family history of certain disabilities and chronic diseases leading to disablement
+Z85,XXI,2,Personal history of malignant neoplasm
+Z911,XXI,3,Personal history of noncompliance with medical treatment and regimen
+Z921,XXI,3,Personal history of long-term (current) use of anticoagulants
+Z94,XXI,2,Transplanted organ and tissue status
+Z95,XXI,2,Presence of cardiac and vascular implants and grafts

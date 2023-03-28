@@ -1,0 +1,101 @@
+code,chapter,rank,description
+C00-C75,II,2,"Malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic and related tissue"
+C67,II,4,Malignant neoplasm of bladder
+IV,IV,0,"Endocrine, nutritional and metabolic diseases"
+E10-E14,IV,1,Diabetes mellitus
+E102,IV,3,Type 1 diabetes mellitus with renal complications
+E1023,IV,4,Type 1 diabetes mellitus with established or advanced kidney disease
+E11,IV,2,Type 2 diabetes mellitus
+E112,IV,3,Type 2 diabetes mellitus with renal complications
+E1123,IV,4,Type 2 diabetes mellitus with established or advanced kidney disease
+E1128,IV,4,Type 2 diabetes mellitus with other specified kidney complication not elsewhere classified
+E115,IV,3,Type 2 diabetes mellitus with peripheral circulatory complications
+E1152,IV,4,Type 2 diabetes mellitus with certain circulatory complications
+E1433,IV,4,Unspecified diabetes mellitus with other retinopathy
+E70-E90,IV,1,Metabolic disorders
+E78,IV,2,Disorders of lipoprotein metabolism and other lipidaemias
+G55,VI,2,Nerve root and plexus compressions in diseases classified elsewhere
+G551,VI,3,Nerve root and plexus compressions in intervertebral disc disorders
+G553,VI,3,Nerve root and plexus compressions in other dorsopathies
+G992,VI,3,Myelopathy in diseases classified elsewhere
+H330,VII,3,Retinal detachment with retinal break
+H33,VII,2,Retinal detachments and breaks
+H43,VII,2,Disorders of vitreous body
+H43-H45,VII,1,Disorders of vitreous body and globe
+H431,VII,3,Vitreous haemorrhage
+IX,IX,0,Diseases of the circulatory system
+I100,IX,3,Benign hypertension
+I10,IX,2,Essential (primary) hypertension
+I10-I15,IX,1,Hypertensive diseases
+I200,IX,3,Unstable angina
+I20,IX,2,Angina pectoris
+I20-I25,IX,1,Ischaemic heart diseases
+I208,IX,3,Other forms of angina pectoris
+I2088,IX,4,Other forms of angina pectoris
+I21,IX,2,Acute myocardial infarction
+I214,IX,3,Acute subendocardial myocardial infarction
+I25,IX,2,Chronic ischaemic heart disease
+I2510,IX,4,Atherosclerotic heart disease of native coronary artery
+I251,IX,3,Atherosclerotic heart disease
+I30-I52,IX,1,Other forms of heart disease
+I4890,IX,4,"Atrial fibrillation, unspecified"
+I489,IX,3,"Atrial fibrillation and atrial flutter, unspecified"
+I500,IX,3,Congestive heart failure
+I50,IX,2,Heart failure
+J128,X,3,Other viral pneumonia
+J40-J47,X,1,Chronic lower respiratory diseases
+J44,X,2,Other chronic obstructive pulmonary disease
+K35,XI,2,Acute appendicitis
+K359,XI,3,"Acute appendicitis, unspecified"
+K8010,XI,4,Calculus of gallbladder with other cholecystitis without mention of obstruction
+M15-M19,XIII,2,Arthrosis
+M16,XIII,3,Coxarthrosis [arthrosis of hip]
+M169,XIII,4,"Coxarthrosis, unspecified"
+M170,XIII,4,"Primary gonarthrosis, bilateral"
+M17,XIII,3,Gonarthrosis [arthrosis of knee]
+M179,XIII,4,"Gonarthrosis, unspecified"
+M471,XIII,4,Other spondylosis with myelopathy
+M4712,XIII,5,"Other spondylosis with myelopathy, cervical region"
+M500,XIII,4,Cervical disc disorder with myelopathy
+M511,XIII,4,Lumbar and other intervertebral disc disorders with radiculopathy
+N00-N08,XIV,1,Glomerular diseases
+XIV,XIV,0,Diseases of the genitourinary system
+N08,XIV,2,Glomerular disorders in diseases classified elsewhere
+N083,XIV,3,Glomerular disorders in diabetes mellitus
+N0835,XIV,4,"Glomerular disorders in diabetes mellitus, chronic kidney disease, stage 5"
+N0839,XIV,4,Unspecified glomerular disorders in diabetes mellitus
+N17,XIV,2,Acute renal failure
+N17-N19,XIV,1,Renal failure
+N179,XIV,3,"Acute renal failure, unspecified"
+N201,XIV,3,Calculus of ureter
+N993,XIV,3,Prolapse of vaginal vault after hysterectomy
+O60-O75,XV,1,Complications of labour and delivery
+XVIII,XVIII,0,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+R065,XVIII,3,Mouth breathing
+R07,XVIII,2,Pain in throat and chest
+R90-R94,XVIII,1,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+R94,XVIII,2,Abnormal results of function studies
+R943,XVIII,3,Abnormal results of cardiovascular function studies
+R9430,XVIII,4,Electrocardiogram suggestive of st segment elevation myocardial infarction [STEMI]
+R9431,XVIII,4,Abnormal cardiovascular function studies (biomarkers or ECG) suggestive of non st segment elevation myocardial infarction [NSTEMI]
+XIX,XIX,0,"Injury, poisoning and certain other consequences of external causes"
+S72,XIX,2,Fracture of femur
+T80-T88,XIX,1,"Complications of surgical and medical care, not elsewhere classified"
+T81,XIX,2,"Complications of procedures, not elsewhere classified"
+T82,XIX,2,"Complications of cardiac and vascular prosthetic devices, implants and grafts"
+W75-W84,XX,3,Other accidental threats to breathing
+Y40-Y84,XX,1,Complications of medical and surgical care
+Y83,XX,3,"Surgical operation and other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+Y83-Y84,XX,2,"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+Z370,XXI,3,Single live birth
+Z540,XXI,3,Convalescence following surgery
+Z54,XXI,2,Convalescence
+Z720,XXI,3,Tobacco use
+Z72,XXI,2,Problems related to lifestyle
+Z80-Z99,XXI,1,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z82,XXI,2,Family history of certain disabilities and chronic diseases leading to disablement
+Z824,XXI,3,Family history of ischaemic heart disease and other diseases of the circulatory system
+Z864,XXI,3,Personal history of psychoactive substance abuse
+Z8642,XXI,4,Personal history of tobacco abuse
+Z95,XXI,2,Presence of cardiac and vascular implants and grafts
+Z955,XXI,3,Presence of coronary angioplasty implant and graft

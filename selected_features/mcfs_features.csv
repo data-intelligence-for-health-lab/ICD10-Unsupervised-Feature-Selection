@@ -1,0 +1,101 @@
+code,chapter,rank,description
+IV,IV,0,"Endocrine, nutritional and metabolic diseases"
+E112,IV,3,Type 2 diabetes mellitus with renal complications
+E70-E90,IV,1,Metabolic disorders
+E78,IV,2,Disorders of lipoprotein metabolism and other lipidaemias
+IX,IX,0,Diseases of the circulatory system
+I100,IX,3,Benign hypertension
+I10,IX,2,Essential (primary) hypertension
+I10-I15,IX,1,Hypertensive diseases
+I200,IX,3,Unstable angina
+I214,IX,3,Acute subendocardial myocardial infarction
+I2510,IX,4,Atherosclerotic heart disease of native coronary artery
+I30-I52,IX,1,Other forms of heart disease
+I800,IX,3,Phlebitis and thrombophlebitis of superficial vessels of lower extremities
+I80,IX,2,Phlebitis and thrombophlebitis
+I80-I89,IX,1,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I801,IX,3,Phlebitis and thrombophlebitis of femoral vein
+I802,IX,3,Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+I803,IX,3,"Phlebitis and thrombophlebitis of lower extremities, unspecified"
+I808,IX,3,Phlebitis and thrombophlebitis of other sites
+I809,IX,3,Phlebitis and thrombophlebitis of unspecified site
+I81,IX,2,Portal vein thrombosis
+I820,IX,3,Budd-Chiari syndrome
+I82,IX,2,Other venous embolism and thrombosis
+I821,IX,3,Thrombophlebitis migrans
+I822,IX,3,Embolism and thrombosis of vena cava
+I823,IX,3,Embolism and thrombosis of renal vein
+I828,IX,3,Embolism and thrombosis of other specified veins
+I829,IX,3,Embolism and thrombosis of unspecified vein
+I830,IX,3,Varicose veins of lower extremities with ulcer
+I83,IX,2,Varicose veins of lower extremities
+I831,IX,3,Varicose veins of lower extremities with inflammation
+I832,IX,3,Varicose veins of lower extremities with both ulcer and inflammation
+I838,IX,3,Varicose veins of lower extremities with other complications
+I839,IX,3,Varicose veins of lower extremities without ulcer or inflammation
+I840,I,1,Internal thrombosed haemorrhoids
+I841,I,1,Internal haemorrhoids with other complications
+I842,I,1,Internal haemorrhoids without complication
+I843,I,1,External thrombosed haemorrhoids
+I844,I,1,External haemorrhoids with other complications
+I845,I,1,External haemorrhoids without complication
+I846,I,1,Residual haemorrhoidal skin tags
+I847,I,1,Unspecified thrombosed haemorrhoids
+I848,I,1,Unspecified haemorrhoids with other complications
+I849,I,1,Unspecified haemorrhoids without complication
+I850,IX,3,Oesophageal varices with bleeding
+I85,IX,2,Oesophageal varices
+I859,IX,3,Oesophageal varices without bleeding
+I861,IX,3,Scrotal varices
+I86,IX,2,Varicose veins of other sites
+I864,IX,3,Gastric varices
+I868,IX,3,Varicose veins of other specified sites
+I8708,IX,4,Postthrombotic syndrome with other complications
+I870,IX,3,Postthrombotic syndrome
+I87,IX,2,Other disorders of veins
+I871,IX,3,Compression of vein
+I872,IX,3,Venous insufficiency (chronic)(peripheral)
+I878,IX,3,Other specified disorders of veins
+I879,IX,3,"Disorder of vein, unspecified"
+I880,IX,3,Nonspecific mesenteric lymphadenitis
+I88,IX,2,Nonspecific lymphadenitis
+I881,IX,3,"Chronic lymphadenitis, except mesenteric"
+I888,IX,3,Other nonspecific lymphadenitis
+I889,IX,3,"Nonspecific lymphadenitis, unspecified"
+I890,IX,3,"Lymphoedema, not elsewhere classified"
+I89,IX,2,Other noninfective disorders of lymphatic vessels and lymph nodes
+I891,IX,3,Lymphangitis
+I898,IX,3,Other specified noninfective disorders of lymphatic vessels and lymph nodes
+I950,IX,3,Idiopathic hypotension
+I95,IX,2,Hypotension
+I95-I99,IX,1,Other and unspecified disorders of the circulatory system
+I951,IX,3,Orthostatic hypotension
+I952,IX,3,Hypotension due to drugs
+I958,IX,3,Other hypotension
+I959,IX,3,"Hypotension, unspecified"
+I970,IX,3,Postcardiotomy syndrome
+I97,IX,2,"Postprocedural disorders of circulatory system, not elsewhere classified"
+I971,IX,3,Other functional disturbances following cardiac surgery
+I972,IX,3,Postmastectomy lymphoedema syndrome
+J108,X,3,"Influenza with other manifestations, seasonal influenza virus identified"
+J110,X,3,"Influenza with pneumonia, virus not identified"
+J11,X,2,"Influenza, virus not identified"
+J111,X,3,"Influenza with other respiratory manifestations, virus not identified"
+J118,X,3,"Influenza with other manifestations, virus not identified"
+J120,X,3,Adenoviral pneumonia
+J12,X,2,"Viral pneumonia, not elsewhere classified"
+J121,X,3,Respiratory syncytial virus pneumonia
+J122,X,3,Parainfluenza virus pneumonia
+J123,X,3,Human metapneumovirus pneumonia
+J128,X,3,Other viral pneumonia
+J129,X,3,"Viral pneumonia, unspecified"
+J13,X,2,Pneumonia due to Streptococcus pneumoniae
+J14,X,2,Pneumonia due to Haemophilus influenzae
+J150,X,3,Pneumonia due to Klebsiella pneumoniae
+J15,X,2,"Bacterial pneumonia, not elsewhere classified"
+J151,X,3,Pneumonia due to Pseudomonas
+J152,X,3,Pneumonia due to staphylococcus
+R9431,XVIII,4,Abnormal cardiovascular function studies (biomarkers or ECG) suggestive of non st segment elevation myocardial infarction [NSTEMI]
+Y40-Y84,XX,1,Complications of medical and surgical care
+XXI,XXI,0,Factors influencing health status and contact with health services
+Z720,XXI,3,Tobacco use

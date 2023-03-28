@@ -1,0 +1,97 @@
+code,chapter,rank,description
+A090,I,3,Other and unspecified gastroenteritis and colitis of infectious origin
+A31,I,2,Infection due to other mycobacteria
+A398,I,3,Other meningococcal infections
+A810,I,3,Creutzfeldt-Jakob disease
+B012,I,3,Varicella pneumonia
+B678,I,3,"Echinococcosis, unspecified, of liver"
+B960,I,3,Mycoplasma pneumoniae [M. pneumoniae] as the cause of diseases classified to other chapters
+C166,II,5,"Malignant neoplasm: Greater curvature of stomach, unspecified"
+C47,II,4,Malignant neoplasm of peripheral nerves and autonomic nervous system
+C676,II,5,Malignant neoplasm: Ureteric orifice
+C780,II,4,Secondary malignant neoplasm of lung
+C97,II,3,Malignant neoplasms of independent (primary) multiple sites
+D0008,II,4,"Carcinoma in situ of oral cavity, other specified site"
+D120,II,3,Benign neoplasm: Caecum
+D434,II,3,Neoplasm of uncertain or unknown behaviour: Spinal cord
+E035,IV,3,Myxoedema coma
+E054,IV,3,Thyrotoxicosis factitia
+E110,IV,3,Type 2 diabetes mellitus with coma
+E116,IV,3,Type 2 diabetes mellitus with other specified complications
+E612,IV,3,Magnesium deficiency
+E70-E90,IV,1,Metabolic disorders
+E888,IV,3,Other specified metabolic disorders
+F010,V,3,Vascular dementia of acute onset
+F058,V,3,Other delirium
+F103,V,3,Mental and behavioural disorders due to use of alcohol withdrawal state
+F134,V,3,Mental and behavioural disorders due to use of sedatives or hypnotics withdrawal state with delirium
+F400,V,3,Agoraphobia
+F459,V,3,"Somatoform disorder, unspecified"
+G03,VI,2,Meningitis due to other and unspecified causes
+G245,VI,3,Blepharospasm
+G96,VI,2,Other disorders of central nervous system
+I15,IX,2,Secondary hypertension
+I37,IX,2,Pulmonary valve disorders
+I745,IX,3,Embolism and thrombosis of iliac artery
+J343,X,3,Hypertrophy of nasal turbinates
+K149,XI,3,"Disease of tongue, unspecified"
+K819,XI,3,"Cholecystitis, unspecified"
+L14,XII,2,Bullous disorders in diseases classified elsewhere
+L55,XII,2,Sunburn
+L84,XII,2,Corns and callosities
+L978,XII,3,Ulcer of lower limb with necrosis involving muscle or bone (stage x)
+M01,XIII,3,Direct infections of joint in infectious and parasitic diseases classified elsewhere
+M340,XIII,3,Progressive systemic sclerosis
+M341,XIII,3,CR(E)ST syndrome
+M351,XIII,3,Other overlap syndromes
+M4185,XIII,5,"Other forms of scoliosis, thoracolumbar region"
+M478,XIII,4,Other spondylosis
+M4799,XIII,5,"Spondylosis, unspecified, unspecified site"
+M6195,XIII,5,"Calcification and ossification of muscle, unspecified, pelvic region and thigh"
+M671,XIII,4,Other contracture of tendon (sheath)
+M7982,XIII,5,"Other specified soft tissue disorders, upper arm"
+N340,XIV,3,Urethral abscess
+O36421,XV,4,"Maternal care for intrauterine death, second trimester, delivered, with or without mention of antepartum condition"
+O42011,XV,4,"Premature rupture of membranes, onset of labour within 24 hours, delivered, with or without mention of antepartum condition, preterm"
+O692,XV,3,"Labour and delivery complicated by other cord entanglement, with compression"
+Q662,XVII,3,Metatarsus varus
+Q76,XVII,2,Congenital malformations of spine and bony thorax
+R1032,XVIII,4,Periumbilical pain
+R71,XVIII,2,Abnormality of red blood cells
+R91,XVIII,2,Abnormal findings on diagnostic imaging of lung
+R934,XVIII,3,Abnormal findings on diagnostic imaging of urinary organs
+S02400,XIX,4,"Fracture of malar and maxillary bones, lefort 1, closed"
+S025,XIX,3,Fracture of tooth
+S0626,XIX,4,Diffuse brain injury with open intracranial wound
+S06810,XIX,4,Other intracranial injuries with brief loss of consciousness without open intracranial wound
+S090,XIX,3,"Injury of blood vessels of head, not elsewhere classified"
+S222,XIX,3,Fracture of sternum
+S27510,XIX,4,Laceration and puncture of thoracic trachea without open wound of thoracic cavity
+S37290,XIX,4,"Injury NOS of bladder, without open wound into cavity"
+S717,XIX,3,Multiple open wounds of hip and thigh
+S72190,XIX,4,"Unspecified trochanteric fracture, closed"
+S83,XIX,2,"Dislocation, sprain and strain of joints and ligaments of knee"
+S8628,XIX,4,Other and unspecified injury of muscle(s) and tendon(s) of anterior muscle group at lower leg level
+S92210,XIX,4,"Fracture of cuboid bone, closed"
+T11,XIX,2,"Other injuries of upper limb, level unspecified"
+T230,XIX,4,Burn of unspecified degree of wrist and hand
+T407,XIX,3,Poisoning: Cannabis (derivatives)
+T633,XIX,3,Toxic effect: Venom of spider
+T84,XIX,2,"Complications of internal orthopaedic prosthetic devices, implants and grafts"
+T911,XIX,3,Sequelae of fracture of spine
+T96,XIX,2,"Sequelae of poisoning by drugs, medicaments and biological substances"
+V183,XX,5,Pedal cyclist injured in noncollision transport accident : person injured while boarding or alighting
+V38,XX,4,Occupant of three-wheeled motor vehicle injured in noncollision transport accident
+V865,XX,5,Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident
+V91,XX,4,Accident to watercraft causing other injury
+W10,XX,4,Fall on and from stairs and steps
+Y455,XX,4,4-Aminophenol derivatives
+Y57,XX,3,Other and unspecified drugs and medicaments
+Y919,XX,3,"Alcohol involvement, not otherwise specified"
+Z710,XXI,3,Person consulting on behalf of another person
+Z878,XXI,3,Personal history of other specified conditions
+Z89,XXI,2,Acquired absence of limb
+Z928,XXI,3,Personal history of other medical treatment
+Z941,XXI,3,Heart transplant status
+Z948,XXI,3,Other transplanted organ and tissue status
+Z9500,XXI,4,Presence of cardiac pacemaker
