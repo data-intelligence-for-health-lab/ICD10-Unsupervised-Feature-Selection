@@ -67,7 +67,7 @@ for i in tqdm(range(0, len(unique_patients), batch_size)):
 # Concatenate the arrays along the rows axis
 np_result = np.concatenate(arrays, axis=0)
 print(np_result.shape)
-np.save('resampled_one_hot_data', np_result)
+np.save('Processed_data/resampled_one_hot_data', np_result)
 
 print("End Time =", datetime.now().strftime("%H:%M:%S"))
 print('Done')
