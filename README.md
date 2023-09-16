@@ -1,4 +1,4 @@
-# Unsupervised Feature Selection to Identify Important ICD-10 Codes for Machine Learning
+# Unsupervised Feature Selection to Identify Important ICD-10 and ATC Codes for Machine Learning
 
 
 This repository contains the code for the paper titled "[_Unsupervised Feature Selection to Identify Important 
@@ -10,8 +10,7 @@ Please cite the following paper if you use this code in your research:
     title={Unsupervised Feature Selection to Identify Important ICD-10 Codes for Machine Learning: A Case Study on a Coronary Artery Disease Patient Cohort},
     author={Ghasemi, Peyman and Lee, Joon},
     journal={arXiv:2303.14303},
-    year={2023},
-    note={Paper submitted to the AMIA 2023 Annual Symposium}
+    year={2023}
     }
 
 
