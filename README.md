@@ -1,16 +1,16 @@
 # Unsupervised Feature Selection to Identify Important ICD-10 and ATC Codes for Machine Learning
 
 
-This repository contains the code for the paper titled "[_Unsupervised Feature Selection to Identify Important 
-ICD-10 Codes for Machine Learning: A Case Study on a Coronary Artery Disease Patient Cohort_](https://arxiv.org/abs/2303.14303)".
+This repository contains the code for the paper titled "[_Unsupervised Feature Selection to Identify Important ICD-10 and ATC Codes for Machine Learning on a Cohort of Patients With Coronary Heart Disease: Retrospective Study_](https://medinform.jmir.org/2024/0/e0/)".
 Please cite the following paper if you use this code in your research:
 
 
     @article{ghasemi2023unsupervised,
-    title={Unsupervised Feature Selection to Identify Important ICD-10 Codes for Machine Learning: A Case Study on a Coronary Artery Disease Patient Cohort},
+    title={[Unsupervised Feature Selection to Identify Important ICD-10 Codes for Machine Learning: A Case Study on a Coronary Artery Disease Patient Cohort](https://medinform.jmir.org/2024/0/e0/)},
     author={Ghasemi, Peyman and Lee, Joon},
-    journal={arXiv:2303.14303},
-    year={2023}
+    journal={JMIR Med Inform},
+    year={2024},
+    doi={10.2196/52896}
     }
 
 
@@ -25,6 +25,11 @@ Concrete Autoencoders with and without ICD tree weight adjustment to select the 
 and predict 90-day mortality following discharge. Our findings revealed that the Concrete Autoencoder methods 
 outperformed all other methods in both tasks. Furthermore, the weight adjustment in the Concrete Autoencoder method 
 decreased the complexity of features.
+
+## *** UPDATE ***
+If you wish to use the best methods introduced in this paper (Concrete Autoencoders) to extract the best ICD-10 or ATC codes in your datasets, you may use this user-friendly code:
+
+https://github.com/peymvn/icd-atc-feature-selector
 
 ## Requirements
     - Python 3.9
