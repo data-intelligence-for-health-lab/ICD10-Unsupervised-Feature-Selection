@@ -5,11 +5,14 @@ This repository contains the code for the paper titled "[_Unsupervised Feature S
 Please cite the following paper if you use this code in your research:
 
 
-    @article{ghasemi2023unsupervised,
-    title={[Unsupervised Feature Selection to Identify Important ICD-10 Codes for Machine Learning: A Case Study on a Coronary Artery Disease Patient Cohort](https://medinform.jmir.org/2024/0/e0/)},
-    author={Ghasemi, Peyman and Lee, Joon},
+    @article{ghasemi2024unsupervised,
+    title={Unsupervised Feature Selection to Identify Important ICD-10 and ATC Codes for Machine Learning on a Cohort of Patients With Coronary Heart Disease: Retrospective Study},
+    author={Ghasemi, P. and Lee, J.},
     journal={JMIR Med Inform},
     year={2024},
+    volume={12},
+    pages={e52896},
+    url={https://medinform.jmir.org/2024/1/e52896/},
     doi={10.2196/52896}
     }
 
